@@ -56,7 +56,7 @@ function App() {
             <div className="max-w-4xl mx-auto">
               <h1 className="text-6xl md:text-8xl font-bold text-white mb-6 tracking-tight">
                 <img
-                    src="/public/uuid-56210ec1-fc4c-476c-8b59-790148662fc4.png"
+                    src="https://i.postimg.cc/VvsVFxzz/uuid-56210ec1-fc4c-476c-8b59-790148662fc4.png"
                 />
               </h1>
               <p className="text-xl md:text-2xl text-gray-300 mb-12 font-light tracking-wide">
