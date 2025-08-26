@@ -13,35 +13,35 @@ const teamMembers: TeamMember[] = [
     id: 1,
     firstName: "Romain",
     lastName: "Jouanel",
-    image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&h=300&fit=crop&crop=face",
+    image: "../IMG_8346.webp",
     linkedinUrl: "https://www.linkedin.com/in/romain-jouanel-b94205195/"
   },
   {
     id: 2,
     firstName: "Corentin",
     lastName: "Peron",
-    image: "https://images.unsplash.com/photo-1494790108755-2616b612b977?w=300&h=300&fit=crop&crop=face",
+    image: "../IMG_8343.webp",
     linkedinUrl: "https://www.linkedin.com/in/corentin-peron-b983b519b/"
   },
   {
     id: 3,
     firstName: "Arthur",
     lastName: "Godinho",
-    image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=300&h=300&fit=crop&crop=face",
+    image: "../IMG_8342.webp",
     linkedinUrl: "https://www.linkedin.com/in/arthur-godinho-0685351a2/"
   },
   {
     id: 4,
     firstName: "Alexis",
     lastName: "Gallet",
-    image: "https://media.licdn.com/dms/image/v2/D4E35AQFK6CNL_jDKdA/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1722093688505?e=1756724400&v=beta&t=lKE4yvRcR_NPFsgfVoOdJuG_TX5r7h2Rp3Wz7lSNXcE",
+    image: "../IMG_8345.webp",
     linkedinUrl: "https://www.linkedin.com/in/alexis-gallet-11182b1b8/"
   },
   {
     id: 5,
     firstName: "Benjamin",
     lastName: "Liszewski",
-    image: "https://media.licdn.com/dms/image/v2/D4E03AQFDYPfmzOsouw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1681373561961?e=1758758400&v=beta&t=xfs2IfW4gMtauH-myZE-1dRSaB07GScDNG_mDcLDjtw",
+    image: "../IMG_8347.webp",
     linkedinUrl: "https://www.linkedin.com/in/benjamin-liszewski/"
   }
 ];
